@@ -1,0 +1,15 @@
+{
+  "name": "Lottery Ticket #1",
+  "description": "Boleto de loteria NFT unico e intransferible",
+  "image": "https://www.iconsdb.com/icons/preview/royal-blue/keyboard-xxl.png",
+  "attributes": [
+    {
+      "trait_type": "Serie",
+      "value": "Agosto 2025"
+    }
+    {
+      "trait_type": "Número",
+      "value": "12345"
+    }
+  ]
+}
